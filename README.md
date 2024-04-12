@@ -2,7 +2,7 @@
 - 👀 I’m interested in making games and any other programs
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on just about anything
-- 📫 How to reach me IG mircea.cel.mirca
+- 📫 How to reach me mateimircea919@gmail.com
 
 <!---
 MircaSalvatorul/MircaSalvatorul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
